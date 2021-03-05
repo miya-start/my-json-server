@@ -1,3 +1,8 @@
 {
-  "images": [{ "cat1": "test1" }, { "cat2": "test2" }]
+  "images": [{ "cat1": "test1" }, { "cat2": "test2" }],
+  "profile": {
+    "firstName": "太郎",
+    "lastName": "浦島",
+    "email": "taro@urashima.com"
+  }
 }
